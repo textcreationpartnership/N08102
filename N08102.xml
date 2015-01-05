@@ -119,14 +119,14 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:0f7f6b098376b800:010340_0000_0F7E80EEE2970AA0"/>
-            <pb facs="tcp:0f7f6b098376b800:010340_0001_0F7E80EF5E457B30"/>
+            <pb facs="unknown:010340_0000_0F7E80EEE2970AA0"/>
+            <pb facs="unknown:010340_0001_0F7E80EF5E457B30"/>
             <p>THE BIRTH, PARENTAGE, and EDUCATION, OF PRAISE-GOD BAREBONE.</p>
             <p>To which is added, An ELECTION BALLAD, OR The LAMENTATION of Miss * * * * * * *. A true but doleful Ditty.</p>
             <p>Printed for JACK NORTHWESTER, at the Sign of the <hi>White-Oak</hi> in <hi>Heart of Oak</hi> Street, MDCCLXVI.</p>
          </div>
          <div type="preface">
-            <pb n="ii" facs="tcp:0f7f6b098376b800:010340_0002_0F7E80F04F547810"/>
+            <pb n="ii" facs="unknown:010340_0002_0F7E80F04F547810"/>
             <head>PREFACE, OR AN APOLOGY for writing the Life of PRAISE-GOD BAREBONE. <note n="*" place="bottom">This curious Personage must be well known to those conver<g ref="char:EOLhyphen"/>sant in the English History. <hi>Rapin,</hi> speaking of the extraordi<g ref="char:EOLhyphen"/>nary Parliament called by Cromwell in 1653, says,
 <q>Amongst these Members was one <hi>Praise-God Barebone,</hi> a <hi>Leather-Seller,</hi> who in his Neighbourhood passed for a <hi>notable Speaker,</hi> be<g ref="char:EOLhyphen"/>cause he used to entertain them with long Harrangues upon the Times: From this Man the People in Derision called them the <hi>Barebone Parliament.</hi>
                   </q>
@@ -160,7 +160,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="3" facs="tcp:0f7f6b098376b800:010340_0003_0F7E80F0DC0BCB58"/>
+            <pb n="3" facs="unknown:010340_0003_0F7E80F0DC0BCB58"/>
             <head>The Birth, Parentage, and Education of PRAISE-GOD BAREBONE.</head>
             <l>TO paint a Puritan, a queer one,</l>
             <l>An holy knave, a Prysbyterian,</l>
@@ -193,7 +193,7 @@
                   </gap> compounded of the initial letters of the names of five Pres<g ref="char:EOLhyphen"/>byterian Chiefs, as the word <hi>Cable</hi> was afterwards used to sig<g ref="char:EOLhyphen"/>nify a Junto of Five, in the reign of Charles the IId.</note> Smec. the epitome</l>
             <l>Of Puritan hypocrisy.</l>
             <l>
-               <pb n="4" facs="tcp:0f7f6b098376b800:010340_0004_0F7E80F198FF7D88"/>Or, as some say, the true descendant</l>
+               <pb n="4" facs="unknown:010340_0004_0F7E80F198FF7D88"/>Or, as some say, the true descendant</l>
             <l>Of him <note n="†" place="bottom">HUDIBRAS.</note>, who fought for Bear defendant.</l>
             <l>Yet for his race, it matters not</l>
             <l>Of whom, or where he was begot;</l>
@@ -231,7 +231,7 @@
             <l>(The nurs'ry of many a scold)</l>
             <l>Tradition says there was a den,</l>
             <l>
-               <pb n="5" facs="tcp:0f7f6b098376b800:010340_0005_0F7E80F272C377D8"/>Like that which CACUS skulk'd in, when</l>
+               <pb n="5" facs="unknown:010340_0005_0F7E80F272C377D8"/>Like that which CACUS skulk'd in, when</l>
             <l>ALCIDES came to search the place,</l>
             <l>Where he his cattle stol'n could trace,</l>
             <l>Which, VIRGIL says, so stunk and smoak'd,</l>
@@ -274,7 +274,7 @@
             <l>Once he was taken in the lurch,</l>
             <l>For breaking windows of the church,</l>
             <l>
-               <pb n="6" facs="tcp:0f7f6b098376b800:010340_0006_0F7E80F30F9E17B8"/>And sent to Durance; yet at th' age</l>
+               <pb n="6" facs="unknown:010340_0006_0F7E80F30F9E17B8"/>And sent to Durance; yet at th' age</l>
             <l>Of scarce twelve years he broke the cage.</l>
             <l>At length so head-strong he was grown,</l>
             <l>So much the Terror of the Town,</l>
@@ -317,7 +317,7 @@
             <l>'Whene'er a Plot was in their view.</l>
             <l>'Further to teach him the grimace,</l>
             <l>
-               <pb n="7" facs="tcp:0f7f6b098376b800:010340_0007_0F7E80F3F876E520"/>'And odd distortions of the face;</l>
+               <pb n="7" facs="unknown:010340_0007_0F7E80F3F876E520"/>'And odd distortions of the face;</l>
             <l>'To roll his eye-balls to the lid,</l>
             <l>'Till all the rest but white was hid;</l>
             <l>'To force a tear at neighbour's woes,</l>
@@ -362,7 +362,7 @@
             <l>'As a last method of correction,</l>
             <l>'To break the Rampant to subjection.</l>
             <l>
-               <pb n="8" facs="tcp:0f7f6b098376b800:010340_0008_0F7E80F48EBA91A0"/>'For PRAISE-GOD'S sake I've laid before ye</l>
+               <pb n="8" facs="unknown:010340_0008_0F7E80F48EBA91A0"/>'For PRAISE-GOD'S sake I've laid before ye</l>
             <l>'A fact, on which the Churchmen glory:</l>
             <l>'I mean not to upbraid a Brother,</l>
             <l>'We Saints must one forgive another:</l>
@@ -400,7 +400,7 @@
             <l>Therefore in all things he obey'd,</l>
             <l>And soon was Master of his Trade.</l>
             <l>
-               <pb n="9" facs="tcp:0f7f6b098376b800:010340_0009_0F7E80F8EA836470"/>For when he saw he still might be</l>
+               <pb n="9" facs="unknown:010340_0009_0F7E80F8EA836470"/>For when he saw he still might be</l>
             <l>As much a knave as formerly,</l>
             <l>If he would only ware a cloak,</l>
             <l>He thought resistance was a joak:</l>
@@ -434,7 +434,7 @@
             <l>'To bid, and yet forbid the job:</l>
             <l>'This won't be using Brethren well,</l>
             <l>
-               <pb n="10" facs="tcp:0f7f6b098376b800:010340_0010_0F7E80F96872B0C8"/>'But rather like the <note n="*" place="bottom">Tantalus.</note> Man in hell;</l>
+               <pb n="10" facs="unknown:010340_0010_0F7E80F96872B0C8"/>'But rather like the <note n="*" place="bottom">Tantalus.</note> Man in hell;</l>
             <l>'Just at whose lips was set a treat,</l>
             <l>'O<gap reason="illegible: faint" extent="1 letter">
                   <desc>•</desc>
@@ -476,7 +476,7 @@
             <l>A close-stool-pan, turn'd upside down,</l>
             <l>Was the best likeness of his crown:</l>
             <l>
-               <pb n="11" facs="tcp:0f7f6b098376b800:010340_0011_0F7E80FA92634E50"/>What made the Simile more pat,</l>
+               <pb n="11" facs="unknown:010340_0011_0F7E80FA92634E50"/>What made the Simile more pat,</l>
             <l>Was, that beneath the brims o'th' hat</l>
             <l>Some <note n="§" place="bottom">In memory of our Hero, a great Body of the Presbyterians wear <hi>Yellow-Wigs</hi> to this Day. Vide the Counties of <hi>York</hi> and <hi>Cumberland, &amp;c. &amp;c.</hi>
                </note>
@@ -512,7 +512,7 @@
             <l>A Man so meek woun't use their chink</l>
             <l>For any expences of his own,</l>
             <l>
-               <pb n="12" facs="tcp:0f7f6b098376b800:010340_0012_0F7E80FB51550EB8"/>Who seem'd to live on bread alone.</l>
+               <pb n="12" facs="unknown:010340_0012_0F7E80FB51550EB8"/>Who seem'd to live on bread alone.</l>
             <l>By such like arts each <note n="‖" place="bottom">Lambskin Knaves—Wolves in Sheep's cloathing: Academi<g ref="char:EOLhyphen"/>cal Readers may find out another meaning.</note> lambskin knave</l>
             <l>Cajoles the sheep he would enslave.</l>
             <l>Thus PRAISE-GOD knew, his coat without,</l>
@@ -550,7 +550,7 @@
                <hi>Richard</hi>'s legs they lookt.</l>
             <l>Whether the Fates hereby design'd,</l>
             <l>
-               <pb n="13" facs="tcp:0f7f6b098376b800:010340_0013_0F7E80FC0F9AA100"/>To shew an emblem of his Mind;</l>
+               <pb n="13" facs="unknown:010340_0013_0F7E80FC0F9AA100"/>To shew an emblem of his Mind;</l>
             <l>Or whether, as some Augurs hold,</l>
             <l>By this his Greatness they foretold;</l>
             <l>Who say, that as at first the ways</l>
@@ -587,7 +587,7 @@
             <l>'Most holy, and most honour'd Seers,</l>
             <l>'In ev'ry plot our grand Compeers,</l>
             <l>
-               <pb n="14" facs="tcp:0f7f6b098376b800:010340_0014_0F7E80FD28E44EB8"/>'Lo! I present to you a Youth,</l>
+               <pb n="14" facs="unknown:010340_0014_0F7E80FD28E44EB8"/>'Lo! I present to you a Youth,</l>
             <l>'As ye would wish, a <hi>foe to truth.</hi>
             </l>
             <l>'Vers'd as I am, and taught by years</l>
@@ -609,7 +609,7 @@
             </q>
          </div>
          <div type="ballad">
-            <pb n="15" facs="tcp:0f7f6b098376b800:010340_0015_0F7E80FD9F025AC0"/>
+            <pb n="15" facs="unknown:010340_0015_0F7E80FD9F025AC0"/>
             <head>An ELECTION BALLAD, OR THE LAMENTATION of Miss * * * * * * *, on being dis<g ref="char:EOLhyphen"/>appointed by JOHNNY VAIN, <hi>alias,</hi> JOHNNY PI<g ref="char:EOLhyphen"/>TYFUL, who had told her that, as he was sure of carrying his <hi>Election,</hi> he was determined upon giving a Ball to their <hi>Wisdoms</hi> and <hi>Betternesses,</hi> and that SHE should be his Partner.</head>
             <opener>To the Tune of kitty Fell.</opener>
             <lg n="1">
@@ -635,7 +635,7 @@
                   </note> 
                   <hi>Blue</hi> I deck'd my Hair,</l>
                <l>
-                  <pb n="16" facs="tcp:0f7f6b098376b800:010340_0016_0F7E80FE50AE6E78"/>In hopes to be the Fav'rite Fair</l>
+                  <pb n="16" facs="unknown:010340_0016_0F7E80FE50AE6E78"/>In hopes to be the Fav'rite Fair</l>
                <l>And dance with <hi>Iohnny Vain.</hi>
                </l>
                <l>Luckless Johnny, lovely Johnny<g ref="char:punc">▪</g>
@@ -668,7 +668,7 @@
                <l>Ah! Angry Johnny, Johnny Vain.</l>
             </lg>
             <lg n="5">
-               <pb n="17" facs="tcp:0f7f6b098376b800:010340_0017_0F7E810146938860"/>
+               <pb n="17" facs="unknown:010340_0017_0F7E810146938860"/>
                <head>5.</head>
                <l>Another Trial might I guess,</l>
                <l>May meet, perhaps with more Success,</l>
